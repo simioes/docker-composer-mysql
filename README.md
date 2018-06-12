@@ -1,2 +1,2 @@
-# docker-composer-mysql
-Simple mysql container
+# docker-compose-mysql
+Simple mysql container using docker compose
